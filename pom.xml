@@ -11,7 +11,7 @@
 	<groupId>dev.rohan</groupId>
 	<artifactId>movies</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>movie-review-system</name>
+	<name>Movie Review System</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
