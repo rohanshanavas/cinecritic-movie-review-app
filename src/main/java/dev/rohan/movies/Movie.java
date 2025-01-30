@@ -1,6 +1,5 @@
 package dev.rohan.movies;
 
-import java.util.ArrayList;
 import java.util.List;
 
 import org.bson.types.ObjectId;
